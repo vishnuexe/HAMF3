@@ -1,5 +1,5 @@
 # HAMF3
-Official repo for the work *Hand-crafted Features meet Attention to catch Machine-crafted Fake in Face-Forgery*
+Official repo for the work **Hand-crafted Features meet Attention to catch Machine-crafted Fake in Face-Forgery**
 
 All the packages necessary with versions are given in requirements.txt
 
